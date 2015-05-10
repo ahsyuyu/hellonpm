@@ -1,6 +1,6 @@
 {
   "name": "anne-hellonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "say hello to npm",
   "main": "index.js",
   "scripts": {
